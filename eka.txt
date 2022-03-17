@@ -1,3 +1,0 @@
-testataan git järjestelmää
-Ennen kuin aloitamme ohjelmoinnin, käymme läpi web-sovellusten toimintaperiaatteita.
-lisää muutoksia
