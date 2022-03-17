@@ -1,1 +1,2 @@
 testataan git järjestelmää
+Ennen kuin aloitamme ohjelmoinnin, käymme läpi web-sovellusten toimintaperiaatteita tarkastelemalla osoitteessa https://studies.cs.helsinki.fi/exampleapp olevaa esimerkkisovellusta.
